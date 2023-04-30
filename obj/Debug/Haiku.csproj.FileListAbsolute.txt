@@ -1,0 +1,13 @@
+C:\Users\Wiz\Desktop\IGME 201\Haiku\bin\Debug\Haiku.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Haiku\bin\Debug\Haiku.exe
+C:\Users\Wiz\Desktop\IGME 201\Haiku\bin\Debug\Haiku.pdb
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.MainForm.resources
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.exe
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.pdb
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.SettingsForm.resources
+C:\Users\Wiz\Desktop\IGME 201\Haiku\obj\Debug\Haiku.AboutForm.resources
